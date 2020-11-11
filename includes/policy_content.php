@@ -16,7 +16,7 @@
 
     <p>The SMART pledge demonstrates commitment to a developmental state that will honestly deliver socio-economic transformation premised on the promotion of prosperity and equal opportunities for all Zimbabweans. This pledge will boost production, jobs, economic stabilization, confidence building and transformation.</p>
 
-     <h6>To download a copy of the document, please click here <a href="assets/pdf/MDC-Alliance-RELOAD.pdf" target="blank" class="cv-pdf"><i
+     <h6>To download a copy of the document, please click here <a href="assets/pdf/MDC-SMART-Policies.pdf" target="blank" class="cv-pdf"><i
               class="fa fa-download" aria-hidden="true"></i></a>
         </h6>
 
@@ -31,7 +31,7 @@
       <li>Free and Fair Elections: Under International Supervision: Electoral reforms are so key to break the vicious cycle and troop of hugely contested elections we must hold free, fair, legitimate, credible and sound elections under international supervision.</li>
     </ul>
 
- <h6>To download a copy of the document, please click here <a href="assets/pdf/MDC-SMART-Policies.pdf" target="blank" class="cv-pdf"><i
+ <h6>To download a copy of the document, please click here <a href="assets/pdf/MDC-Alliance-RELOAD.pdf" target="blank" class="cv-pdf"><i
               class="fa fa-download" aria-hidden="true"></i></a>
         </h6>
 </div>
