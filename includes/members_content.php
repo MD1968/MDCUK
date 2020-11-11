@@ -2,6 +2,7 @@
    <div class="container">
     <div class="row center " >
                <h1 style="text-transform: capitalize;">Members<br></h1>
+             <img src="assets/images/3.jpg" class="d-block w-50" alt="gathering">
          </div>
     </div>
 
