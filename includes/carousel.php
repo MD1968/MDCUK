@@ -6,13 +6,18 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/images/1.jpg" class="d-block w-100" alt="...">
+      <img src="assets/images/leader.jpg" class="d-block w-100" alt="...">
+            <a href="policies.php"><h2>Working towards creating a better Zimbabwe where the nation can dare to dream</h2></a>
+
     </div>
     <div class="carousel-item">
-      <img src="assets/images/2.jpg" class="d-block w-100" alt="...">
+      <img src="assets/images/2a.jpg" class="d-block w-50" alt="...">
+      <a href="members.php"><h2>Get to know the parties youth assembly members</h2></a>
     </div>
     <div class="carousel-item">
-      <img src="assets/images/3.jpg" class="d-block w-100" alt="...">
+      <img src="assets/images/3.jpg" class="d-block w-50" alt="...">
+            <a href="donate.php"><h2>Donate to make a change in Zimbabwe</h2></a>
+
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

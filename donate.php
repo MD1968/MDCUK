@@ -18,7 +18,7 @@
 
 <!----------- Page Content ----------->
 
-<?php include"includes/contact_content.php"; ?>
+<?php include"includes/donate_content.php"; ?>
 
 <!-- Go to top button -->
 

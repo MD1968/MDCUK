@@ -25,12 +25,16 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.php"><i class="fas fa-paper-plane"></i>&nbsp;Contact</a>
+                    <a class="nav-link" href="donate.php"><i class="fas fa-pound-sign"></i>&nbsp;Donate</a>
                 </li>
 
             </ul>
+
+           
         </div>
     </nav>
+
+     <br>
 
     
 
