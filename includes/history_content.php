@@ -1,8 +1,7 @@
 
-   <div class="container">
-    <div class="row center " >
-               <h1 style="text-transform: capitalize;">History<br></h1>
-         </div>
+   <h2>Our History</h2>
+
+<hr>
       <img src="assets/images/2.jpg" class="d-block w-50" alt="demostration">
     </div>
 

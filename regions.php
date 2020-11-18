@@ -18,8 +18,8 @@
 
 <!----------- Page Content ----------->
 
+<?php include"includes/regions_content.php"; ?>
 
-<?php include"includes/members_content.php"; ?>
 
 <!-- Go to top button -->
 

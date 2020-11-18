@@ -18,8 +18,7 @@
 
 <!----------- Page Content ----------->
 
-
-<?php include"includes/members_content.php"; ?>
+<?php include"includes/committe_content.php"; ?>
 
 <!-- Go to top button -->
 
