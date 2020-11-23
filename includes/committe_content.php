@@ -7,14 +7,14 @@
 
 <div class="card-deck">
    <div class="card">
-   <img class="card-img-top " class = "img-circle" src="assets/images/logo_small.jpg" alt="logo">
+   <img class="card-img-top " class = "img-circle" src="assets/images/paulchipamadze.jpg" alt="logo">
     <div class="card-body">
       <p class="card-text">Chairman<br>Paul Chipamadze</p>
     </div>
   </div>
 
  <div class="card">
-   <img class="card-img-top" src="assets/images/logo_small.jpg" alt="logo">
+   <img class="card-img-top" src="assets/images/nancymakurira.jpg" alt="logo">
     <div class="card-body">
       <p class="card-text">Deputy Chairperson<br>Nancy Makurira</p>
     </div>
@@ -48,7 +48,7 @@
 
 
    <div class="card">
-   <img class="card-img-top" src="assets/images/logo_small.jpg" alt="logo">
+   <img class="card-img-top" src="assets/images/thokozileusuwana.jpg" alt="logo">
     <div class="card-body">
       <p class="card-text">Deputy Organising Department<br>Thokozile Usuwana</p>
     </div>
@@ -65,7 +65,7 @@
 
 
   <div class="card">
-   <img class="card-img-top" src="assets/images/logo_small.jpg" alt="logo">
+   <img class="card-img-top" src="assets/images/sindilencube.jpg" alt="logo">
     <div class="card-body">
       <p class="card-text">Deputy Treasurer<br>Sindile Ncube</p>
     </div>
@@ -90,14 +90,14 @@
 
 
   <div class="card">
-   <img class="card-img-top" src="assets/images/logo_small.jpg" alt="logo">
+   <img class="card-img-top" src="assets/images/tinotendachihope.jpg" alt="logo">
     <div class="card-body">
       <p class="card-text">Gender Rep<br>Tinotenda Chihope</p>
     </div>
   </div>
 
  <div class="card">
-   <img class="card-img-top" src="assets/images/logo_small.jpg" alt="logo">
+   <img class="card-img-top" src="assets/images/tafadzwachigwende.jpg" alt="logo">
     <div class="card-body">
       <p class="card-text">Electoral Officer<br>Tafadzwa Chigwende</p>
     </div>
