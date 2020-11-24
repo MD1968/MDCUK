@@ -25,4 +25,21 @@
       <p class="card-text"><a class="btn btn-outline-danger" href="donate.php" role="button"><i class="far fa-paper-plane"></i>&nbsp;More Info</a></p>
     </div>
   </div>
+  </div>
+  <div class="card-deck">
+    <div class="card">
+    <div class="card-body">
+      <h5 class="card-title"></h5>
+      <p class="card-text">Press Release</p>
+      <p class="card-text"><a class="btn btn-outline-danger" href="press.php" role="button"><i class="far fa-paper-plane"></i>&nbsp;More Info</a></small></p>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title"></h5>
+      <p class="card-text">News Articles<br> </p>
+      <p class="card-text"><a class="btn btn-outline-danger" href="articles.php" role="button"><i class="far fa-paper-plane"></i>&nbsp;More Info</a></p>
+    </div>
+  </div>
+
 </div>
