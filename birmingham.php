@@ -18,7 +18,10 @@
 
 <!----------- Page Content ----------->
 
-<?php include"includes/index_content.php"; ?>
+
+<h3>Birmingham <h3>
+<p>Paul Chipamhadze<br>Vimbai Chambara<br>Valerie Karimakwenda<p>
+
 
 
 <!-- Go to top button -->
@@ -37,3 +40,20 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

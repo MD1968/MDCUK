@@ -12,7 +12,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="about.php"><i class="fas fa-info"></i>&nbsp;About</a>
                 </li>
-                
+                  <li class="nav-item">
+                    <a class="nav-link" href="history.php"><i class="fas fa-history"></i>&nbsp;History</a>
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="members.php"><i class="fas fa-users"></i>&nbsp;Members</a>
@@ -23,8 +25,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.php"><i class="fas fa-paper-plane"></i>&nbsp;Contact
-                        Us</a>
+                    <a class="nav-link" href="donate.php"><i class="fas fa-pound-sign"></i>&nbsp;Donate</a>
                 </li>
 
             </ul>

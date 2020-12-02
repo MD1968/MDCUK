@@ -18,7 +18,10 @@
 
 <!----------- Page Content ----------->
 
-<?php include"includes/index_content.php"; ?>
+
+<h3>Derby<h3>
+<p>Merlornce Kavukatema<br>Shingi Mugadza</p>
+
 
 
 <!-- Go to top button -->
@@ -37,3 +40,20 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

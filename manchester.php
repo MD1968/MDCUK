@@ -18,7 +18,10 @@
 
 <!----------- Page Content ----------->
 
-<?php include"includes/index_content.php"; ?>
+
+<h3>Manchester<h3>
+<p>Sandra Vhurande</p>
+
 
 
 <!-- Go to top button -->
@@ -37,3 +40,20 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

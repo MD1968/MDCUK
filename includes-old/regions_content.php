@@ -13,27 +13,29 @@
                             Branches
                         </button>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="manchester.php">Manchester</a>
-                            <a class="dropdown-item" href="leeds.php">Leeds</a>
-                            <a class="dropdown-item" href="newcastle.php">Newcastle</a>
+                            <a class="dropdown-item" href="#">Manchester</a>
+                            <a class="dropdown-item" href="#">Leeds</a>
+                            <a class="dropdown-item" href="#">Newcastle</a>
                             <a class="dropdown-item" href="#">Middlesborough</a>
                             <a class="dropdown-item" href="#">Edingborough</a>
                         </div>
     </div>
   </div>
 
-<div class="card">
+
+<div class="card-deck">
+   <div class="card">
     <div class="card-body text-center">
-    <h2>Midlands North District</h2>
+    <h2>Midlands North</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Branches
                         </button>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="birmingham.php">Birmingham</a>
+                            <a class="dropdown-item" href="#">Birmingham</a>
                             <a class="dropdown-item" href="#">Coventry</a>
-                            <a class="dropdown-item" href="derby.php">Derby-Nottingham </a>
-                            <a class="dropdown-item" href="leicester.php">Leicester</a>
-                            <a class="dropdown-item" href="wolverhampton.php">Wolverhampton </a>
+                            <a class="dropdown-item" href="#">Derby-Nottingham </a>
+                            <a class="dropdown-item" href="#">Leicester</a>
+                            <a class="dropdown-item" href="#">Wolverhampton </a>
                         </div>
     </div>
   </div>
@@ -45,7 +47,7 @@
                             Branches
                         </button>
                         <div class="dropdown-menu">
-                          <a class="dropdown-item" href="luton.php">Luton</a>
+                          <a class="dropdown-item" href="#">Luton</a>
                             <a class="dropdown-item" href="#">Milton Keynes</a>
                             <a class="dropdown-item" href="#">Oxford</a>
                         </div>
@@ -63,9 +65,9 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="#">Barking</a>
                             <a class="dropdown-item" href="#">Kent</a>
-                            <a class="dropdown-item" href="london.php">London</a>
+                            <a class="dropdown-item" href="#">London</a>
                             <a class="dropdown-item" href="#">South end on Sea</a>
-                            <a class="dropdown-item" href="wolverhampton.php">Wolverhampton</a>
+                            <a class="dropdown-item" href="#">Wolverhampton</a>
                         </div>
     </div>
   </div>
@@ -78,11 +80,10 @@
                             Branches
                         </button>
                         <div class="dropdown-menu">
-                           <a class="dropdown-item" href="portsmouth.php">Portsmouth</a>
-                           <a class="dropdown-item" href="wycombe.php">High Wycome and Slough</a>
-                            <a class="dropdown-item" href="reading.php">Reading</a>
+                           <a class="dropdown-item" href="#">Portsmouth</a>
+                            <a class="dropdown-item" href="#">Reading</a>
                             <a class="dropdown-item" href="#">Southampton</a>
-                            <a class="dropdown-item" href="wales.php">Wales</a>
+                            <a class="dropdown-item" href="#">Wales</a>
                             <a class="dropdown-item" href="#">Working</a>
                         </div>
     </div>

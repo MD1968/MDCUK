@@ -18,7 +18,10 @@
 
 <!----------- Page Content ----------->
 
-<?php include"includes/index_content.php"; ?>
+
+<h3>Leeds<h3>
+<p>Prince Njagu (also North District chair)</p>
+
 
 
 <!-- Go to top button -->
@@ -37,3 +40,20 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

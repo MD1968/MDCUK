@@ -1,4 +1,10 @@
+<h2>Birmingham</h2>
 
+<hr>
+
+  
+
+  
 <!----------- Head ----------->
 
 <?php include"includes/header.php"; ?>
@@ -18,8 +24,8 @@
 
 <!----------- Page Content ----------->
 
-<?php include"includes/index_content.php"; ?>
 
+<?php include"includes/birmingham/birmingham.php"; ?>
 
 <!-- Go to top button -->
 

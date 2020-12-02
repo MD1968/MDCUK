@@ -18,7 +18,10 @@
 
 <!----------- Page Content ----------->
 
-<?php include"includes/index_content.php"; ?>
+
+<h3>Leicester<h3>
+<p>Namhla Mqedi<br>Tafadzwa Chivaura<br>Sibusisiwe Dlamini<br>Lydia Muzvidziwa<br>Lisa Tinorwa<p>
+
 
 
 <!-- Go to top button -->
@@ -37,3 +40,20 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
