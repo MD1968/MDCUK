@@ -7,8 +7,11 @@
 
 <div class="card-deck">
    <div class="card">
+    <br>
+    <img class="regions-image" src="assets/images/north-district.jpg" ">
+
     <div class="card-body text-center">
-    <h2>North District</h2>
+    <h2>North <br> District</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Branches
                         </button>
@@ -23,6 +26,8 @@
   </div>
 
 <div class="card">
+     <img class="regions-image" src="assets/images/mid-north.jpg" ">
+
     <div class="card-body text-center">
     <h2>Midlands North District</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -39,6 +44,8 @@
   </div>
   
 <div class="card">
+     <img class="regions-image" src="assets/images/mid-south.jpg" ">
+
     <div class="card-body text-center">
     <h2>Midlands South District</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -55,6 +62,8 @@
 
 
 <div class="card">
+     <img class="regions-image" src="assets/images/south-east.jpg" ">
+
     <div class="card-body text-center">
     <h2>South East District</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -72,6 +81,8 @@
 
 
 <div class="card">
+     <img class="regions-image" src="assets/images/south-west.jpg" ">
+
     <div class="card-body text-center">
     <h2>South West District</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

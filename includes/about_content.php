@@ -4,6 +4,8 @@
 
 <div class="card-deck">
   <div class="card">
+    <img class="about-image" src="assets/images/history.jpg" ">
+
     <div class="card-body">
       <h5 class="card-title text-center" style="text-transform: uppercase;">History</h5>
                 <hr class="red" style="width: 30%;">
@@ -13,6 +15,8 @@
   </div>
   
   <div class="card">
+    <img class="about-image" src="assets/images/policies.jpg" ">
+
       <div class="card-body">
       <h5 class="card-title text-center" style="text-transform: uppercase;">Policies</h5>
                 <hr class="red" style="width: 30%;">
