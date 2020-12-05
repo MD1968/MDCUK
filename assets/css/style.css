@@ -1,10 +1,3 @@
-/* Colours */
-
-/*  #ff0000 red
-
-
-/*-------------------------------------------- Whole Site Formatting --------------------------------------------*/
-
 body {
        font-family: TimesNewRoman,
        "Times New Roman",
@@ -14,31 +7,74 @@ body {
        serif;
     font-weight: 300;
       color: #ff0000;
-      width: 100%;
+      width: 97%;
+      padding-left: 3%;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*-- Whole Site Formatting ---*/
+
+
+.navbar-dark {
+    color: #ff0000;
 }
 
 .center {
-    margin: 0;
-    position: absolute;
-    
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
-.vertical-center {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+
+.header-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 100px;
+  max-height: 100px;
 }
+
+.members-image {
+  padding-top: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.news-image {
+  padding-top: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 200px;
+  height: 200px;
+  padding-bottom: 2%;
+}
+
+
+
+.centerImage {
+    text-align: center;
+    display: block;
+}
+
 
 button {
     align-items: center;
 }
 
 h1 {
-    text-transform: capitalize;
+    text-transform: uppercase;
     text-align: center;
     padding-top: 1%;
     padding-bottom: 3%;
@@ -71,155 +107,6 @@ h6 {
     color: black;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-p {
-    color: black;
-    padding-left: 3%;
-    padding-right: 3%;
-}
-
-ul {
-    color: black;
-    padding-left: 10%;
-   
-}
-
-
-#left {
-
-    float: left;
-    padding-top: 2%;
-    max-height: 80px;
-    max-width: 80px;
-}
-
-.title-ing {
-    padding-bottom: 5%;
-}
-
-/* Thick red border */
-hr.red {
-    border: 1px solid #ff0000;
-    width: 80%;
-    
-}
-
-hr.title {
-    border: 1px solid #ff0000;
-    width: 40%;
-}
-
-/* Card styling */
-
-.card {
-       margin-left: 2%;
-       margin-top: 2%;
-       margin-right: 2%;
-}
-
-.card-body{
-    margin-left: 2%;
-     margin-top: 2%;
-      margin-right: 2%;
-   
-}
-
-.card-text {
-    padding-top: 3%;
-}
-
-.card-photo {
-    padding-top: 20%;
-}
-
-.card-img-top {
-
-    height: 100px;
-    width: 100px;
-
-}
-
-.card-deck {
-    width: 95%;
-    padding-left: 20%;
-    padding-right: 5%;
-    padding-top: 5%;
-}
-
-
-
-
-
-
-
-.navbar-dark {
-    color: #ff0000;
-}
-
-.box {
-    padding-top: 2%;
-    padding-bottom: 4%;
-    width: 30%;
-    height: 200px;
-  
-}
-
-
-.centerImage {
-    text-align: center;
-    display: block;
-}
-
-button {
-    align-items: center;
-    background-color: #ff0000;
-    color: white;
-
-
-}
-
-.carousel-item {
-
-    height: 400px;
-
-    max-height: 400px;
-
-}
-.footer {
-    padding-top: 5%;
-}
-
-hr {
-    color: #ff0000;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
-.card-img-top {
-    border-radius: 7%;
-    padding-top: 6%;
-    padding-bottom: 3%;
-    width: 50%;
-    height: 50%;
-}
-
-.card-img-index-top {
-    padding-top: 5%;
-    width: 80%;
-    height: 50%;
-}
-
-
 #title {
     padding-top: 2%;
 }
@@ -249,149 +136,76 @@ hr {
 }
 
 
-/* Links */
-/* unvisited link */
-a:link {
-    color: #ff0000;
+
+/* Thick red border */
+hr.red {
+    border: 1px solid #ff0000;
+    width: 80%;
+    
 }
 
-/* visited link */
-a:visited {
-    color: #ff0000;
-}
-
-/* mouse over link */
-a:hover {
-    color: blue;
-}
-
-/* selected link */
-a:active {
-    color: blue;
+hr.title {
+    border: 1px solid #ff0000;
+    width: 40%;
 }
 
 
-/* Responsive columns */
-@media screen and (max-width: 600px) {
-    .column {
-        width: 100%;
-        display: block;
-        margin-bottom: 20px;
-    }
-    div.gallery img {
-        width: 180%;
-        height: auto;
-    }
-     h1 {
-         font-family: TimesNewRoman,
-             "Times New Roman",
-             Times,
-             Baskerville,
-             Georgia,
-             serif;
-         font-size: 25px;
-         font-style: normal;
-         font-variant: normal;
-         font-weight: 30;
-         line-height: 16.4px;
-         text-transform: capitalize;
-         text-align: center;
-     }
-     h2 {
-         font-family: TimesNewRoman,
-             "Times New Roman",
-             Times,
-             Baskerville,
-             Georgia,
-             serif;
-         font-size: 16px;
-         font-style: normal;
-         font-variant: normal;
-         font-weight: 200;
-         line-height: 26.4px;
-         text-transform: capitalize;
-         padding-top: 3%;
+/*-- Container ---*/
 
-     }
 
-     h3 {
-         font-family: TimesNewRoman,
-             "Times New Roman",
-             Times,
-             Baskerville,
-             Georgia,
-             serif;
-         font-size: 10px;
-         font-style: normal;
-         font-variant: normal;
-         font-weight: 700;
-         line-height: 15.4px;
-         text-transform: capitalize;
-         padding-top: 3%;
 
-     }
-
+.container {
+  padding: 64px;
 }
 
-
-/* iPhone 6 landscape */
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
-    #gallery img {
-        width: 90%;
-        height: auto;
-    }
-    }
+.row:after {
+  content: "";
+  display: table;
+  clear: both
 }
 
-/* iPhone 6 portrait */
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
-#gallery img {
-    width: 90%;
-    height: auto;
-}
-}
+.column-66 {
+  float: left;
+  width: 66.66666%;
+  padding: 20px;
 }
 
-
-/* iPhone 6 Plus landscape */
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 3) {
-   #gallery img {
-       width: 90%;
-       height: auto;
-   }
-   }
+.column-33 {
+  float: left;
+  width: 33.33333%;
+  padding: 20px;
 }
 
-
-/* iPhone 6 Plus portrait */
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 3) {
-    #gallery img {
-        width: 90%;
-        height: auto;
-    }
-    }
+.large-font {
+  font-size: 48px;
 }
 
-
-
-/* iPhone 6 and 6 Plus */
-@media only screen and (max-device-width: 640px),
-only screen and (max-device-width: 667px),
-only screen and (max-width: 480px) {
-   #gallery img {
-       width: 80%;
-       height: auto;
-   }
-   }
+.xlarge-font {
+  font-size: 64px
 }
 
-
-@media only screen and (min-width : 1224px) {
-#gallery img {
-    width: 20%;
-    height: auto;
+.button {
+  border: none;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
 }
 
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
 
-
-
+@media screen and (max-width: 1000px) {
+  .column-66,
+  .column-33 {
+    width: 100%;
+    text-align: center;
+  }
+  img {
+    margin: auto;
+  }
+}
