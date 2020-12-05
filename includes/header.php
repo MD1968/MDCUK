@@ -29,7 +29,13 @@
 
     </script>
 
+<style> 
+        .navbar-nav.navbar-center { 
+            position: absolute; 
+            left: 50%; 
+            transform: translatex(-50%); 
+        } 
+    </style>
 
-
-    <title>MDCUK</title>
+    <title>MDCAUK Ireland</title>
 </head>
