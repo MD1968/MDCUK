@@ -1,8 +1,7 @@
-
-   <h2>Our History</h2>
+<h2>History</h2>
 
 <hr>
-      <img src="assets/images/2.jpg" class="d-block w-50" alt="demostration">
+      <img class="history-image" src="assets/images/2.jpg" class="d-block w-50" alt="demostration">
     </div>
 
     <div class="contaner">
@@ -25,3 +24,19 @@
     <p>On the 14th  of February 2018, a week later President Morgan Tsvangirai passed away due to colon cancer. On the 20th of February 2018, he was laid to rest at his rural home in Humanikwa Village, Buhera. Advocate Nelson Chamisa became the party’s substantive leader and presidential candidate for the 2018 election following a meeting between the national council/ congresses.</p>
 
     <p>The National Council fired key members of the congress due to insubordination on the 23rd of March 2018. New members replaced them. TBC </p>
+<!-- Go to top button -->
+
+<hr class="red">
+
+
+
+
+
+   <h2>MDCA UK and Ireland history</h2>
+
+<hr>
+      <img class="history-image" src="assets/images/history.jpg" class="d-block w-50" alt="demostration">
+    </div>
+
+    <div class="contaner">
+    <p><br><br>The MDCA UK and Ireland youth assembly has been active for years. A collective of young people who believe they can have an impact in Zimbabwe no matter how small the deed is.<br><br> Over the years the YA has supported fellow brethren from Itai Dzamara ’when starting his activism in the park’ to hosting fundraising events to help the less privileged. <br><br>We have and continue to work closely with the MDCA National YA in Zimbabwe by assisting them with their projects. <br><br> Recently the YA demonstrated for the release of three MDCA youth members who had be abducted, tortured and imprisoned shortly after being released from the hospital.<br><br> <p>

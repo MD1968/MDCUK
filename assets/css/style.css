@@ -52,13 +52,35 @@ body {
 }
 
 .members-image {
-
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   width: 400px;
   height: 400px;
+  border-radius: 25px;
+}
+
+
+.media-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 200px;
+  height: 200px;
+  border-radius: 25px;
+}
+
+
+
+.history-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 300px;
+  height: 300px;
   border-radius: 25px;
 }
 
