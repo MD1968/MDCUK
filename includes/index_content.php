@@ -11,7 +11,7 @@
        <button class="button" style="background-color:#ff0000" onclick="window.location.href='https://mdcuk-irelandyouth.com/policy.php';">Read More</button>
     </div>
     <div class="column-33">
-        <img src="assets/images/leader.jpg" width="335" height="471">
+        <img src="assets/images/working_towards.jpg" width="335" height="471">
     </div>
 
 

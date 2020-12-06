@@ -10,7 +10,7 @@
   <div class="card">
     <div class="card-body">
       <h5 class="card-title center"  style="text-transform: uppercase;">News Articles  </h5>
-          <img class="news-image" src="assets/images/news.jpg" ">
+          <img class="news-image" src="assets/images/news.jpg" >
 
       <p class="card-text"><br><br><a class="btn btn-outline-danger" href="articles.php" role="button"><i class="far fa-paper-plane"></i>&nbsp;More Info</a></p>
     </div>

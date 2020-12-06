@@ -1,4 +1,4 @@
-<h2>Our Committee</h2>
+<h2>Regions</h2>
 
 <hr>
 
@@ -8,7 +8,7 @@
 <div class="card-deck">
    <div class="card">
     <br>
-    <img class="regions-image" src="assets/images/north-district.jpg" ">
+    <img class="regions-image" src="assets/images/north-district.jpg" >
 
     <div class="card-body text-center">
     <h2>North <br> District</h2>
@@ -26,7 +26,8 @@
   </div>
 
 <div class="card">
-     <img class="regions-image" src="assets/images/mid-north.jpg" ">
+<br>
+     <img class="regions-image" src="assets/images/mid-north.jpg" >
 
     <div class="card-body text-center">
     <h2>Midlands North District</h2>
@@ -44,8 +45,8 @@
   </div>
   
 <div class="card">
-     <img class="regions-image" src="assets/images/mid-south.jpg" ">
-
+<br>
+     <img class="regions-image" src="assets/images/mid-south.jpg" >
     <div class="card-body text-center">
     <h2>Midlands South District</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -62,7 +63,8 @@
 
 
 <div class="card">
-     <img class="regions-image" src="assets/images/south-east.jpg" ">
+<br>
+     <img class="regions-image" src="assets/images/south-east.jpg" >
 
     <div class="card-body text-center">
     <h2>South East District</h2>
@@ -81,8 +83,9 @@
 
 
 <div class="card">
-     <img class="regions-image" src="assets/images/south-west.jpg" ">
-
+<br>
+     <img class="regions-image" src="assets/images/south-west.jpg" >
+     
     <div class="card-body text-center">
     <h2>South West District</h2>
        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

@@ -1,4 +1,4 @@
-<h2>Our Committee</h2>
+<h2>Committee</h2>
 
 <hr>
 
